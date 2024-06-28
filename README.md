@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, machine learning, and open source projects.
 - 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on exciting web development projects and open source contributions.
-- 📫 How to reach me: youremail@example.com
+- 📫 How to reach me: segujoshua30@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and have climbed 10 different mountains!
 
